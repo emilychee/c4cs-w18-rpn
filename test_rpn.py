@@ -1,6 +1,6 @@
 import unittest
 import rpn
-import operator
+#import operator
 
 class TestBasics(unittest.TestCase):
     def test_add(self):
