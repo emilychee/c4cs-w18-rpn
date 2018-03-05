@@ -2,4 +2,4 @@ language: python
 python:
  - "3.5"
 script:
- - make test
+ - python3 test_rpn.py
