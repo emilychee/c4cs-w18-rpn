@@ -4,4 +4,4 @@ python:
 install:
   - pip install coverage
 script:
-  - make
+  - coverage run test_rpn.py
